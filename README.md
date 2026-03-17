@@ -3,6 +3,13 @@
 A **stunning interactive 3D solar system** built with **HTML, CSS, and Three.js**. Explore all 8 planets with realistic textures, smooth animations, glowing headers, and a twinkling starry background. Fully responsive and visually immersive.  
 
 ---
+## 🎥 Demo Video
+
+Watch the live demo on YouTube:
+
+[![Watch the demo](https://img.youtube.com/vi/3iM3FtNdp7k/0.jpg)](https://youtu.be/3iM3FtNdp7k)
+
+---
 
 
 ## 🔹 Features
